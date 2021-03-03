@@ -4,20 +4,20 @@ Handy way to create a basic Sass/Scss folder and files structure for 7-1 Sass ar
 Create this folder structure with empty scss files inside:
 
 abstracts/mixins
-abstracts/_variables
-abstracts/helpers
-base/animations
-base/typography
-base/utilities
-base/base
-components/buttons
-layout/grid
-layout/header
-layout/footer
-layout/navigation
-pages/home
-themes/theme
-themes/admin
-vendors/jquery-ui
+<br />abstracts/_variables
+<br />abstracts/helpers
+<br />base/animations
+<br />base/typography
+<br />base/utilities
+<br />base/base
+<br />components/buttons
+<br />layout/grid
+<br />layout/header
+<br />layout/footer
+<br />layout/navigation
+<br />pages/home
+<br />themes/theme
+<br />themes/admin
+<br />vendors/jquery-ui
 
 At the end create a main scss file with all the ready to activate import commands.
