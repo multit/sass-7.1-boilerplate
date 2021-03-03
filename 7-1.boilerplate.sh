@@ -31,9 +31,6 @@ touch _theme.scss _admin.scss
 cd .. && mkdir vendors && cd vendors
 touch _jquery-ui.scss  # bootstrap etc
 
-# non riesco a insrerire un newline
-#sed -i -e '1 s/^/ @import  base\/base\\n /' style.scss
-
 cd .. && touch style.scss
 cat >> style.scss <<EOF
 // @import  'abstracts/mixins';
