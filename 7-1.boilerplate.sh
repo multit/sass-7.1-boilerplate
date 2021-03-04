@@ -31,8 +31,8 @@ touch _theme.scss _admin.scss
 cd .. && mkdir vendors && cd vendors
 touch _jquery-ui.scss  # bootstrap etc
 
-cd .. && touch style.scss
-cat >> style.scss <<EOF
+cd .. && touch main.scss
+cat >> main.scss <<EOF
 // @import  'abstracts/mixins';
 // @import  'abstracts/_variables';
 // @import  'abstracts/helpers';
