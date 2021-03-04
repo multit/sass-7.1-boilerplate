@@ -36,18 +36,24 @@ cat >> main.scss <<EOF
 // @import  'abstracts/mixins';
 // @import  'abstracts/_variables';
 // @import  'abstracts/helpers';
+
 // @import  'base/animations';
 // @import  'base/typography';
 // @import  'base/utilities';
 // @import  'base/base';
+
 // @import  'components/buttons';
+
 // @import  'layout/grid';
 // @import  'layout/header';
 // @import  'layout/footer';
 // @import  'layout/navigation';
+
 // @import  'pages/home';
+
 // @import  'themes/theme';
 // @import  'themes/admin';
+
 // @import  'vendors/jquery-ui';
 
 
